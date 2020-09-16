@@ -7,4 +7,7 @@ Due to my previous experiences as an educator and as an alumna of Teach For Amer
 
 # Portfolio
 <iframe src="https://data.oecd.org/chart/65Jh" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/65Jh" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
-                
+
+# Government Finances
+The data visualization below analyzes 35 countries' debt-to-GDP ratios to measure the percentage of gross debt (liabilities) between 1995 and 2019. The 24-year analysis of debt-to-GDP ratios allows for the measurement of government financial sustainability or lack of sustainability over time.  
+<div class="flourish-embed flourish-chart" data-src="visualisation/3757302" data-url="https://flo.uri.sh/visualisation/3757302/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>              
