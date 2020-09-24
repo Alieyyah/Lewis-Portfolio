@@ -21,3 +21,6 @@ As previously mentioned, the Global Governments Debt Analysis per Year's objecti
 An area chart is also an effet data visualization. To further enhance the analysis or story of debt-to-GDP ratio increasing, decreasing, or remain constant over the 24 years. The gridline is excellent for depicting continuous data, but the area chart allows the audience to depict change over time with the shading in the data area. Referring back to the Japan example, with the area chart, one can determine that the government's liabilities have increased over time, without hovering over the graph to seek the specific value for the debt-to-GDP ratio. 
 
 Finally, I was intrigued to analyze a pie chart's effectiveness to depict the debt-to-GDP ratio change over time.   With the pie chart presented above, one can decipher the debt-to-GDP ratio change as the values are listed in the part-to-whole. The pie chart lacks the clarity of the trend of time that the area chart or the gridline chart can provide. Due to various use of colors and slices, the pie chart does allow the audience to visually analyze each year clearly and concisely as each part-to-whole represents a year of the 24-year analysis. 
+
+#Can TV solve the remote-learning delimma?
+
