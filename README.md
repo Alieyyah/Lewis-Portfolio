@@ -31,8 +31,9 @@ UNICEF's data and visulization objective is to conlcude that TV-based remote lea
 # Sketches of UNICEF Redesign & Feedback
 
 I completed teh sketching process in two phases. The first phase was an intial rough draft to allow me to brainstorm how I can enhance the elements of the orignial visulization and create a clear narrative of the sotry. Thus I developed a pie chart. 
+
 ![](Piechart1.JPG)
-![](Piechart2.JPG)
+![](piechart2.JPG)
 My first initial thought was to sketch a pice chart to visualize the remote learning policies as a pie chart. The original data chose to visualize the preference rating for more intent, radio, and television wit percentages. As I began to draw the sketches, I noticed that the ratings were not equal to 100 between the three platforms for remote learning policies. Thus, I knew I must shift my focus and think of a chart that would be a better design for this particular data set. Before I shifted gears, I sought feedback from two colleagues.  Colleagues shared that it was slightly difficult to describe what the visualization conveyed with the pie chart. The potential reach data would not sum up to the whole (100) as they are ratings and not percentage, which can be misleading especially when comparing across multpiple regions. Thus, both colleagues recommend for me to rethink the design and sketch. One colleague provided the specific feedback of trying to redesign the visualization with a bar chart. 
 ![](clusterbarchart1.JPG)
 The cluster bar chart allows the visulizations to be more effective.It is more imformative and emotive.  The cluster bar chart allows the viewer to do a comparative analysis, while with ease determine that TV based remote learning policies.
