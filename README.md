@@ -26,3 +26,4 @@ Finally, I was intrigued to analyze a pie chart's effectiveness to depict the de
 ![](remotelearningOG.JPG)
 
 
+
