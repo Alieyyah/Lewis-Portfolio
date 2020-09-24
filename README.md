@@ -23,4 +23,5 @@ An area chart is also an effet data visualization. To further enhance the analys
 Finally, I was intrigued to analyze a pie chart's effectiveness to depict the debt-to-GDP ratio change over time.   With the pie chart presented above, one can decipher the debt-to-GDP ratio change as the values are listed in the part-to-whole. The pie chart lacks the clarity of the trend of time that the area chart or the gridline chart can provide. Due to various use of colors and slices, the pie chart does allow the audience to visually analyze each year clearly and concisely as each part-to-whole represents a year of the 24-year analysis. 
 
 # Can TV solve the remote-learning delimma?
-
+<h2></Potential REACH of REMOTE Learning Platformsh2>
+<img src="remote learning data vis.jpg" alt="Global Data" width="500" height="600">
