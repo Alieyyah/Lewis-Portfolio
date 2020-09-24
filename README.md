@@ -28,10 +28,15 @@ Finally, I was intrigued to analyze a pie chart's effectiveness to depict the de
 
 UNICEF's data and visulization objective is to conlcude that TV-based remote learning polices has the poential to reach the greatest proportion of students globally as education stakeholders continue to navigate the pandemic. After extracing the data and conducting a personal analysis, I concur that the data concludes TV-based remote learning policies has the potential to reach the masses as overall analysis, but if one conducts a geogrpahic analysis one may conclude that prefered remote learning policies may differ based upon geogrpahic regions. Thus, it was imperative for my personal analysis to creat sketch redesigns  that told the story of golbal remote learning policies via rating of preferences in clear and concise manner that would still allow for a compartive analysis of the three remote learning platform preferences (internet, radio, and televison). 
 
-# Sketches of UNICEF Redesign
+# Sketches of UNICEF Redesign & Feedback
 
 I completed teh sketching process in two phases. The first phase was an intial rough draft to allow me to brainstorm how I can enhance the elements of the orignial visulization and create a clear narrative of the sotry. Thus I developed a pie chart. 
 ![](Piechart1.JPG)
+![](Piechart2.JPG)
+My first initial thought was to sketch a pice chart to visualize the remote learning policies as a pie chart. The original data chose to visualize the preference rating for more intent, radio, and television wit percentages. As I began to draw the sketches, I noticed that the ratings were not equal to 100 between the three platforms for remote learning policies. Thus, I knew I must shift my focus and think of a chart that would be a better design for this particular data set. Before I shifted gears, I sought feedback from two colleagues.  Colleagues shared that it was slightly difficult to describe what the visualization conveyed with the pie chart. The potential reach data would not sum up to the whole (100) as they are ratings and not percentages. Thus, both colleagues recommend for me to rethink the design and sketch. One colleague provided the specific feedback of trying to redesign the visualization with a bar chart. 
+![](clusterbarchart1.JPG)
+ 
+ 
 
 
 
