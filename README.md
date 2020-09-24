@@ -31,6 +31,7 @@ UNICEF's data and visulization objective is to conlcude that TV-based remote lea
 # Sketches of UNICEF Redesign
 
 I completed teh sketching process in two phases. The first phase was an intial rough draft to allow me to brainstorm how I can enhance the elements of the orignial visulization and create a clear narrative of the sotry. Thus I developed a pie chart. 
+![](Piechart1.JPG)
 
 
 
