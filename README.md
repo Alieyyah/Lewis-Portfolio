@@ -32,8 +32,6 @@ UNICEF's data and visulization objective is to conlcude that TV-based remote lea
 
 I completed teh sketching process in two phases. The first phase was an intial rough draft to allow me to brainstorm how I can enhance the elements of the orignial visulization and create a clear narrative of the sotry. Thus I developed a pie chart. 
 
-# Proect Proposal
-https://github.com/Alieyyah/final_project_AlieyyahLewis.md
 
 ![](Piechart1.JPG)
 ![](piechart2.JPG)
@@ -47,6 +45,9 @@ The cluster bar chart allows the visulizations to be more effective.It is more i
 
 I chose to use Flourish for the final output of the visualization, which would allow for a comparative analysis of rated remote learning police/ platforms across regions. I moved the continents' label on the Y-axis and labeled the X-axis with the potential ratings rather than the percentages. I also added a legend at the top and changed the chart title. With new visualization, you can also filter by virtual learning platform to do an individual analysis. Overall, I still wanted to tell the story that, according to the data, that overall potential reach rating for TV is the greatest. However, possible reach varies across regions, and the data does not explain why. Further analysis would need to be conducted. 
 
+# Proect Proposal
+
+https://preview.shorthand.com/wZuLPHeOQmunM8JF
 
 
  
