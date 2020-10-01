@@ -44,6 +44,8 @@ The cluster bar chart allows the visulizations to be more effective.It is more i
 
 I chose to use Flourish for the final output of the visualization, which would allow for a comparative analysis of rated remote learning police/ platforms across regions. I moved the continents' label on the Y-axis and labeled the X-axis with the potential ratings rather than the percentages. I also added a legend at the top and changed the chart title. With new visualization, you can also filter by virtual learning platform to do an individual analysis. Overall, I still wanted to tell the story that, according to the data, that overall potential reach rating for TV is the greatest. However, possible reach varies across regions, and the data does not explain why. Further analysis would need to be conducted. 
 
+# Project Proposal
+
  
  
 
