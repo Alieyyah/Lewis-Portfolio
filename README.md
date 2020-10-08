@@ -78,7 +78,6 @@ In regards to the overall presentation of the data, I am planning to use Esri St
 https://preview.shorthand.com/wZuLPHeOQmunM8JF
 
 [Final Project Part 1](/final_project_AlieyyahLewis.md)
-
 [Final Project Part 2](/Final Project: Part 2.md)
 
  
