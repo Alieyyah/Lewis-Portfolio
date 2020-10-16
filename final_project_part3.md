@@ -16,5 +16,13 @@ Regarding picking a color, I wanted to be sure about developing symptoms every d
 Finally, I thought it was imperative to address the triggers of anxiety. It could have been beneficial to list the triggers by their rankings in a list, but I decided to use a treemap to display the hierarchal order of the rankings of the symptoms of the triggers of anxiety. Finally, regarding the call to action, various studies and new articles supported the development of self-care routines. Various sources that were consulted provided many approaches to develop a self-care routine. I decided to use a table format so that the audience can see that there are various dimensions of wellness essential to one's health. It provided clear examples of self-care activities that will allow them to begin to think or develop one of their own.
 
 # References
-
+1. “Any Anxiety Disorder,” National Institute of Mental Health (U.S. Department of Health and Human Services), accessed October 2020, https://www.nimh.nih.gov/health/statistics/any-anxiety-disorder.shtml.
+2. Smitha Bhandari, “What Causes Anxiety? 14 Things That Can Make You Feel Anxious,” September 12, 2020, https://www.webmd.com/anxiety-panic/guide/causes-anxiety.
+3. US Census Bureau, “Household Pulse Survey,” The United States Census Bureau, October 1, 2020, https://www.census.gov/programs-surveys/household-pulse-survey.html.
+4. U.S. Department of Labor, “A Look at the U.S. Department of Labor’s 2012 Family and Medical Leave Act Employee and Worksite Surveys1,” February 2013, https://www.nationalpartnership.org/our-work/resources/economic-justice/fmla/dol-fmla-survey-key-findings-2012.pdf.
+5.Jessica Wu et al., State-by-State Breakdown of Existing Stay-at-Home Orders during COVID-19 Pandemic, 2020, 2020, https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#alabama.
+6.Photo by cottonbro from Pexels
+7.Photo by Anna Shvets from Pexels
+8.Photo by Key Notez from Pexels
+9.Photo by Brett Sayles from Pexels
 
