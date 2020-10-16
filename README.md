@@ -79,7 +79,7 @@ https://preview.shorthand.com/wZuLPHeOQmunM8JF
 
 [Final Project Part 1](/final_project_AlieyyahLewis.md)
 [Final Project Part 2](/Final_Project_Part2.md)
-[Final Project Part 3](/Final_Project_Part3.md)
+[Final Project Part 3](/final_project_part3.md)
 
 
  
