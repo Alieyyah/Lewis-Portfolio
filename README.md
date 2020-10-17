@@ -6,9 +6,10 @@ I am Alieyyah J. Lewis (she/her/hers), and I am a second-year graduate student s
 Due to my previous experiences as an educator and as an alumna of Teach For America (TFA), I have worked with my students, families, administrators, community partners, and TFA to close the achievement gap. I  believe advocacy is the first step to eliminate injustice with the support of data.  I hope and to intertwine both disciplines of public policy and data analysis to ensure all students are receiving an equitable education. Through this course, I am looking forward to developing strong data visualization skills to compliment my ability to analyze data to ensure policymakers and stakeholders understand the compelling stories of educational inequities across the United States.
 
 # Portfolio
-https://preview.shorthand.com/wZuLPHeOQmunM8JF
+
 [Government Finances](/government_finances.md)
 [UNICEF Redesign](/UNICEF_Redesign.md)
+[Project Proposal](/Project_Proposal.md)
 [Final Project Part 1](/final_project_AlieyyahLewis.md)
 [Final Project Part 2](/Final_Project_Part2.md)
 [Final Project Part 3](/final_project_part3.md)
