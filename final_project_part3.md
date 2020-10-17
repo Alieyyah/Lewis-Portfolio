@@ -1,7 +1,8 @@
 Final Project: Self-care Matters
-[Final Project Part 1](/final_project_AlieyyahLewis.md)
-[Final Project Part 2](/Final_Project_Part2.md)
-[Final Project Part 3](/final_project_part3.md)
+* [Final Project Part 1](/final_project_AlieyyahLewis.md)
+* [Final Project Part 2](/Final_Project_Part2.md)
+* [Final Project Part 3](/final_project_part3.md)
+
 To view story please visit: https://arcg.is/1mGjKK
 
 # Intended Audience
