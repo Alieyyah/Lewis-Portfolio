@@ -7,12 +7,12 @@ Due to my previous experiences as an educator and as an alumna of Teach For Amer
 
 # Portfolio
 
-* Bullet list [Government Finances](/government_finances.md)
-* Bullet list item 2 [UNICEF Redesign](/UNICEF_Redesign.md)
-[Project Proposal](/Project_Proposal.md)
-[Final Project Part 1](/final_project_AlieyyahLewis.md)
-[Final Project Part 2](/Final_Project_Part2.md)
-[Final Project Part 3](/final_project_part3.md)
+* [Government Finances](/government_finances.md)
+* [UNICEF Redesign](/UNICEF_Redesign.md)
+* [Project Proposal](/Project_Proposal.md)
+* [Final Project Part 1](/final_project_AlieyyahLewis.md)
+* [Final Project Part 2](/Final_Project_Part2.md)
+* [Final Project Part 3](/final_project_part3.md)
 
 
  
